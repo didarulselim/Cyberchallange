@@ -1,0 +1,141 @@
+
+
+
+body, html { height: 100%; }
+h1,h3,h4,h5,h6{font-weight: 700}
+h2 {
+	font-weight: 400;
+}
+html, html a {
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+p {
+	font-size: 18px;
+}
+header {
+	height:70px;
+
+}
+header p {
+	width: 155px;
+	float: right;
+	padding-top: 15px;
+}
+.navbar-brand {
+	padding: 0;
+}
+.clear{clear: both}
+body {
+    font-size: 14px;
+    line-height: 22px;
+    font-family: 'Roboto Condensed', sans-serif;        
+    font-weight: 400;
+    color: #444;
+    background-color: #cdcbcd;
+    min-width: 100%;
+}
+
+.warrap {
+	width: 90%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+a { color: #0252aa; text-decoration: none; cursor: pointer; }
+.navbar {
+	margin-bottom: 0px;
+}
+.carousel-inner>.item>img {
+	height: 400px;
+	width: 100%;
+}
+.navbar-header {
+    
+    text-align: center;
+}
+.carousel-caption {
+    position: absolute;
+    
+    bottom: 20px;
+    left: 7%; 
+    z-index: 10;
+    
+    padding-bottom: 125px;
+    color: #fff;
+    text-align: left;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+.navbar-nav li:hover,.active {
+	background-color: #eee;
+}
+.footer {
+	background-color: #fff;
+}
+li .active {
+	background-color: #eee;
+}
+.home_des {
+	color: #444; 
+	font-size: 23px;
+	line-height: 30px;
+}
+.main {
+	padding-top: 5%;
+	background-color: #fff;
+}
+
+#Participants .inner{
+	width: 100%;
+	
+}
+section {
+	background-color: #fff;
+}
+section table {
+	width: 100%;
+	margin: 0 auto;
+}
+
+section table tr,td {
+	border: 2px solid #ccc;
+	text-align: center;
+	font-weight: 400;
+}
+
+.inner .item img{
+	display: inline;
+	width: 135px;
+	height: 80px;
+	margin-left: 22px;
+
+
+}
+
+.inner {
+	height: 102px;
+	width: 100%;
+}
+.org {
+	padding-bottom: 2%;
+}
+.registration .popup {
+	float: right;
+}
+.pra label {
+	font-size: 18px;
+}
+.pra .col-xs-12, .pra .col-sm-12, .pra .col-md-12, .pra .col-lg-12 {
+	margin-bottom: 1%;
+}
+.utc-logo {
+	padding: 3%;
+	background-color: #eee;
+	margin-top: 1%;
+	border-radius: 10px;
+}
+.vtc {
+	margin-top: -4%;
+}
